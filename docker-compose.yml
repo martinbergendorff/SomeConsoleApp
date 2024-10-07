@@ -1,0 +1,9 @@
+
+version: '3.4'
+
+services:
+  someconsoleapp:
+    image: someconsoleapp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
