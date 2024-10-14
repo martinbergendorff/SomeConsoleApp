@@ -2,5 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Something in the middle");
+Console.WriteLine("And something more");
 
 Console.WriteLine("Good bye!");
